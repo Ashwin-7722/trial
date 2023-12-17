@@ -1,5 +1,3 @@
-this isthe data of few project that i have 
+This is a sample txt file to check the content of the git and git hub
 
-scs
-"Trail"
-
+Thankyou
